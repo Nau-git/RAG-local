@@ -1,0 +1,11 @@
+python-dotenv
+llama-cloud
+llama-index
+llama-parse
+langchain
+langchain-chroma
+langchain-community
+langchain-huggingface
+sentence-transformers
+chainlit
+...

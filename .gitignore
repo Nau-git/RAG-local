@@ -1,0 +1,6 @@
+*.docx
+.chainlit
+__pycache__
+chroma_db
+.env
+prompts.py
